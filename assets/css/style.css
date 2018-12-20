@@ -45,13 +45,11 @@ body {
 
 }
 
-#left-side {
+#right-side {
 background-color: #e0d3de;
-    padding-top: 7%;
-
 }
 
-#right-side {
+#left-side {
     background-color: #7e6279;
    color: white;
 }
