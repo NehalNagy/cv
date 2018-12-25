@@ -59,11 +59,22 @@ background-color: #e0d3de;
 }
 
 #my-image {
-    background-image: url("/assets/images/my-image.png");
+    background-image: url("/assets/images/my-image4.png");
     background-size: cover;
     height: 200px;
     width: 200px;
     border-radius: 50%;
     margin: 20% auto;
 
+}
+.social-links{
+      margin-top: 25px;
+}
+.social-links a{
+   text-decoration: none;
+    color: #fff;
+
+}
+#contact-details span{
+    margin-left: 15px;
 }
