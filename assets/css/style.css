@@ -42,11 +42,9 @@ body {
 
 #header #title h3 {
     font-size: 45px;
-
 }
 
 #right-side {
-/*background-color: #e0d3de;*/
     background-color: white;
 }
 
@@ -82,4 +80,11 @@ body {
 }
 #contact-details span{
     margin-left: 15px;
+}
+
+#exprience li span{
+    padding-right: 20px;
+}
+#exprience .row,#education .row , #projects .row,li{
+    padding-bottom: 15px;
 }
