@@ -46,16 +46,21 @@ body {
 }
 
 #right-side {
-background-color: #e0d3de;
+/*background-color: #e0d3de;*/
+    background-color: white;
 }
 
 #left-side {
     background-color: #7e6279;
    color: white;
 }
-.my-section h3{
+.my-section-left h3{
    border-bottom: 2px solid white;
     color: white;
+}
+.my-section-right h3{
+   border-bottom: 2px solid black;
+    color: black;
 }
 
 #my-image {
